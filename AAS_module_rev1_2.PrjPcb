@@ -212,6 +212,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=4C889340-2F4D-47CB-A8A8-940C49F4DFFB
+Description=STD
+AllowFabrication=0
+ParameterCount=0
+VariationCount=11
+Variation1=Designator=U204|UniqueId=\AIEUUPOH\GHCOBVIV|Kind=1|AlternatePart= 
+Variation2=Designator=C216|UniqueId=\AIEUUPOH\KJMTHUDS|Kind=1|AlternatePart= 
+Variation3=Designator=C214|UniqueId=\AIEUUPOH\YAHCGPQI|Kind=1|AlternatePart= 
+Variation4=Designator=JP204|UniqueId=\AIEUUPOH\BSTHVEGY|Kind=1|AlternatePart= 
+Variation5=Designator=D208|UniqueId=\AIEUUPOH\YFJMOCQR|Kind=1|AlternatePart= 
+Variation6=Designator=J200|UniqueId=\AIEUUPOH\OCEYMEWS|Kind=1|AlternatePart= 
+Variation7=Designator=R211|UniqueId=\AIEUUPOH\GURDVMIO|Kind=1|AlternatePart= 
+Variation8=Designator=R212|UniqueId=\AIEUUPOH\OQTLHYRM|Kind=1|AlternatePart= 
+Variation9=Designator=C217|UniqueId=\AIEUUPOH\SKGPNVTA|Kind=1|AlternatePart= 
+Variation10=Designator=R210|UniqueId=\AIEUUPOH\CVDIGSAK|Kind=1|AlternatePart= 
+Variation11=Designator=R201|UniqueId=\AIEUUPOH\IGTMGUTP|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AAS_module_rev1_2\[No Variations]\AAS_module_rev1_2 - [No Variations] - BoM.xls
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=*.*
 IncludeSubFolders=1
