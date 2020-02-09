@@ -73,9 +73,9 @@ DocumentUniqueId=
 
 [Document3]
 DocumentPath=AAS_module_Power-rev1_2.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=300
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
@@ -124,9 +124,9 @@ DocumentUniqueId=
 
 [Document6]
 DocumentPath=AAS_module_TOP-rev1_2.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=100
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=2
