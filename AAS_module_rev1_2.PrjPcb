@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TLJCGLPH
 
 [Document5]
 DocumentPath=AAS_module_rev1_2_model.PcbDoc
