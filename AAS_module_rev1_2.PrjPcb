@@ -224,6 +224,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPERIYQF
 
+[ProjectVariant1]
+UniqueID=D716052F-B732-4F13-8FFE-A2BDA50FA72C
+Description=STD
+AllowFabrication=0
+ParameterCount=0
+VariationCount=13
+Variation1=Designator=R213|UniqueId=\AIEUUPOH\PSXNKNPY|Kind=0|AlternatePart= 
+Variation2=Designator=D207|UniqueId=\AIEUUPOH\RQQRPYUU|Kind=1|AlternatePart= 
+Variation3=Designator=D206|UniqueId=\AIEUUPOH\FXKCFRNI|Kind=1|AlternatePart= 
+Variation4=Designator=R200|UniqueId=\AIEUUPOH\PLWFENLC|Kind=0|AlternatePart= 
+Variation5=Designator=U204|UniqueId=\AIEUUPOH\GHCOBVIV|Kind=1|AlternatePart= 
+Variation6=Designator=C216|UniqueId=\AIEUUPOH\KJMTHUDS|Kind=0|AlternatePart= 
+Variation7=Designator=C214|UniqueId=\AIEUUPOH\YAHCGPQI|Kind=0|AlternatePart= 
+Variation8=Designator=JP204|UniqueId=\AIEUUPOH\BSTHVEGY|Kind=1|AlternatePart= 
+Variation9=Designator=R201|UniqueId=\AIEUUPOH\IGTMGUTP|Kind=0|AlternatePart= 
+Variation10=Designator=R210|UniqueId=\AIEUUPOH\CVDIGSAK|Kind=0|AlternatePart= 
+Variation11=Designator=R211|UniqueId=\AIEUUPOH\IBDUSJSU|Kind=0|AlternatePart= 
+Variation12=Designator=J200|UniqueId=\AIEUUPOH\OCEYMEWS|Kind=1|AlternatePart= 
+Variation13=Designator=U203|UniqueId=\AIEUUPOH\AKIEAOUH|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [SearchPath1]
 Path=*.*
 IncludeSubFolders=1
