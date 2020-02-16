@@ -229,16 +229,16 @@ Path=*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=ProjecTevisionDate
-Value=14
+Name=ProjectRevision
+Value=1.2
 
 [Parameter2]
 Name=ProjectNameText
 Value=AAS module / Gateway
 
 [Parameter3]
-Name=ProjectRevision
-Value=1.1
+Name=ProjecTevisionDate
+Value=14
 
 [Configuration1]
 Name=Default Configuration
