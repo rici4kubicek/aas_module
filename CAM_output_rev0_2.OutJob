@@ -34,7 +34,7 @@ OutputMedium3_Type=GeneratedFiles
 OutputType1=Gerber
 OutputName1=Gerber Files
 OutputCategory1=Fabrication
-OutputDocumentPath1=HN6x_BaseBoard_rev2_3_PANEL.PcbDoc
+OutputDocumentPath1=AAS_module_rev1_2_PANEL.PcbDoc
 OutputVariantName1=
 OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
@@ -42,11 +42,11 @@ OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16908290~1,16908291~1,16908294~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908299~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
-OutputDocumentPath2=HN6x_BaseBoard_rev2_3_PANEL.PcbDoc
+OutputDocumentPath2=AAS_module_rev1_2_PANEL.PcbDoc
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
@@ -67,9 +67,9 @@ OutputEnabled3_OutputMedium3=1
 OutputDefault3=0
 
 [PublishSettings]
-OutputFilePath2=C:\Altium_SVN\Templates\Project Outputs for Templates\CAM_for_Templates\
+OutputFilePath2=E:\Downloads\aas_module-master (2)\aas_module-master\Project Outputs for AAS_module_rev1_2\CAM_for_AAS_module_rev1_2\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for HN6x_BaseBoard_rev2_3
+OutputBasePath2=Project Outputs for AAS_module_rev1_2
 OutputPathMedia2== 'CAM_for_'+ProjectName
 OutputPathMediaValue2== 'CAM_for_'+ProjectName
 OutputPathOutputer2=
@@ -82,7 +82,7 @@ OutputFileNameSpecial2=
 OpenOutput2=1
 OutputFilePath3=C:\Altium_SVN\Templates\Project Outputs for Templates\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for HN6x_BaseBoard_rev2_3
+OutputBasePath3=Project Outputs for AAS_module_rev1_2
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Custom]
@@ -95,7 +95,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Altium_SVN\Templates\Project Outputs for Templates\CAM_for_Templates\
+RelativeOutputPath2=E:\Downloads\aas_module-master (2)\aas_module-master\Project Outputs for AAS_module_rev1_2\CAM_for_AAS_module_rev1_2\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0

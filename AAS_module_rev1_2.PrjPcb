@@ -205,24 +205,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KFHRTASC
-
-[Document11]
-DocumentPath=AAS_module_rev1_2_model.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GPERIYQF
+DocumentUniqueId=WGWRITXJ
 
 [ProjectVariant1]
 UniqueID=D716052F-B732-4F13-8FFE-A2BDA50FA72C
@@ -255,6 +238,34 @@ DItemRevisionGUID=
 
 [GeneratedDocument3]
 DocumentPath=Project Outputs for AAS_module_rev1_2\STD\AAS_module_rev1_2 - STD - BoM.xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for AAS_module_rev1_2\CAM_for_AAS_module_rev1_2\AAS_module_rev1_2_PANEL.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for AAS_module_rev1_2\CAM_for_AAS_module_rev1_2\AAS_module_rev1_2_PANEL.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for AAS_module_rev1_2\CAM_for_AAS_module_rev1_2\AAS_module_rev1_2_PANEL.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for AAS_module_rev1_2\CAM_for_AAS_module_rev1_2\AAS_module_rev1_2_PANEL.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for AAS_module_rev1_2\CAM_for_AAS_module_rev1_2\AAS_module_rev1_2_PANEL.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for AAS_module_rev1_2\CAM_for_AAS_module_rev1_2\AAS_module_rev1_2_PANEL.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for AAS_module_rev1_2\CAM_for_AAS_module_rev1_2\AAS_module_rev1_2_PANEL.TXT
 DItemRevisionGUID=
 
 [SearchPath1]
