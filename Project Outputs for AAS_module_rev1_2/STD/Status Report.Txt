@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 0:19:43 On 17.02.2020
+Start Output Generation At 20:03:47 On 30.05.2020
 
 Output: Bill of Materials
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [STD] of Project [AAS_module_rev1_2.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 0:20:12 On 17.02.2020
+Finished Output Generation At 20:04:09 On 30.05.2020
