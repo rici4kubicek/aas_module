@@ -1,0 +1,15 @@
+Added Component: Designator=JP400_1(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ABRA number"; Value = "120430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UR"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header_2X4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3 Pin=JP400_1-1
+Added Pin To Net: NetName=2 Pin=JP400_1-2
+Added Pin To Net: NetName=1 Pin=JP400_1-3
+Added Pin To Net: NetName=0 Pin=JP400_1-4
+Added Pin To Net: NetName=4 Pin=JP400_1-5
+Added Pin To Net: NetName=5 Pin=JP400_1-6
+Added Pin To Net: NetName=G Pin=JP400_1-7
+Added Member To Class: ClassName=Designator Member=Component JP400_1 Header_2X4

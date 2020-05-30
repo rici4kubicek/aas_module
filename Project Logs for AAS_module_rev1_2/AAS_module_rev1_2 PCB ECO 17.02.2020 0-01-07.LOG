@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Vin Pin=C321-1
+Removed Pin From Net: NetName=GND Pin=C321-2
+Removed Member From Class: ClassName=U_AAS_module_Power-rev1_2 Member=C321
+Change Component Footprint: Designator=C300 Old Footprint=CAP_D10xL15_P5_HR New Footprint=CAP_D10xL20_P5_HR
